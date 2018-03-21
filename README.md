@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-**Tutti Frutti de animales**
+**Tutti Frutti**
 
 _a_... basta!
 
