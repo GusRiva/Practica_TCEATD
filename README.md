@@ -4,9 +4,14 @@
 
 _a_... basta!
 
-a - albatros
+albatros 
 
-b - boa
+boa
+
+camello
+
+dodo
+
 
 
 
