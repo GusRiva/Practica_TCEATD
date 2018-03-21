@@ -4,7 +4,8 @@
 
 _a_... basta!
 
-_g_ Gato
+a - albatros
+b - boa
 
 
 
