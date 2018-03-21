@@ -4,7 +4,7 @@
 
 _a_... basta!
 
-<<<<<<< HEAD
+
 albatros 
 
 boa
@@ -12,10 +12,6 @@ boa
 camello
 
 dodo
-
-=======
-a - albatros
-b - boa
 
 
 
