@@ -3,17 +3,17 @@
 
 albatros 
 
-boa
+boas
 
-camello
+camellos
 
-dodo
+dodos
 
-elefante
+elefantes
 
-foca
+focas
 
-gato
+gatos
 
 
 
