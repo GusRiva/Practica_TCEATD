@@ -9,6 +9,12 @@ camello
 
 dodo
 
+elefante
+
+foca
+
+gato
+
 
 
 
